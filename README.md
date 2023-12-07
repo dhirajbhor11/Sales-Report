@@ -34,15 +34,15 @@ To get started with the Sales Analytics Power BI project:
 
 ## Folder Structure
 /
-|-- /Reports
-| |-- [Sales_Report_01.pbix]
-|-- /Inputs
-| |-- [DIM_Customer.csv]
-| |-- [Dim_Date_Excel.csv]
-| |-- [DIM_Products.csv]
-| |-- [FactInternetSale.csv]
-| |-- [SalesBudget.xlsm]
-|-- /Documentation
+|-- Reports
+|   |-- Sales_Report_01.pbix
+|-- Inputs
+|   |-- DIM_Customer.csv
+|   |-- Dim_Date_Excel.csv
+|   |-- DIM_Products.csv
+|   |-- FactInternetSale.csv
+|   |-- SalesBudget.xlsm
+|-- Documentation
 
 
 ## Data Sources
